@@ -1,0 +1,9 @@
+{
+	"name": "sj-gptl-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55f3e352-b124-495e-85b2-dbf49708bd46",
+		"tenantId": "f8542750-42ef-4300-a8d9-8683cd54ada1"
+	}
+}
